@@ -22,7 +22,7 @@
         app:srcCompat="@drawable/shyam" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/work"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="30dp"
@@ -30,7 +30,7 @@
         android:text="Work Experience" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/callme"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="30dp"
@@ -38,7 +38,7 @@
         android:text="Call Me" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/emailme"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="30dp"
